@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@picocss/pico": "^1.5.10",
+    "elizabot": "^0.0.3"
+  }
+}
